@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebbf385c.chunk.css",
-    "main.js": "/static/js/main.1890b315.chunk.js",
-    "main.js.map": "/static/js/main.1890b315.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.06dcff9b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.06dcff9b.js.map",
-    "static/js/2.e1e97db5.chunk.js": "/static/js/2.e1e97db5.chunk.js",
-    "static/js/2.e1e97db5.chunk.js.map": "/static/js/2.e1e97db5.chunk.js.map",
-    "static/js/3.bc8ab630.chunk.js": "/static/js/3.bc8ab630.chunk.js",
-    "static/js/3.bc8ab630.chunk.js.map": "/static/js/3.bc8ab630.chunk.js.map",
+    "main.css": "/static/css/main.b4b8414d.chunk.css",
+    "main.js": "/static/js/main.7e87bd50.chunk.js",
+    "main.js.map": "/static/js/main.7e87bd50.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d1abccf4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d1abccf4.js.map",
+    "static/js/2.ba921af6.chunk.js": "/static/js/2.ba921af6.chunk.js",
+    "static/js/2.ba921af6.chunk.js.map": "/static/js/2.ba921af6.chunk.js.map",
+    "static/js/3.4c7ed49b.chunk.js": "/static/js/3.4c7ed49b.chunk.js",
+    "static/js/3.4c7ed49b.chunk.js.map": "/static/js/3.4c7ed49b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ebbf385c.chunk.css.map": "/static/css/main.ebbf385c.chunk.css.map",
-    "static/js/2.e1e97db5.chunk.js.LICENSE.txt": "/static/js/2.e1e97db5.chunk.js.LICENSE.txt",
+    "static/css/main.b4b8414d.chunk.css.map": "/static/css/main.b4b8414d.chunk.css.map",
+    "static/js/2.ba921af6.chunk.js.LICENSE.txt": "/static/js/2.ba921af6.chunk.js.LICENSE.txt",
     "static/media/Telegram_logo.28141391.svg": "/static/media/Telegram_logo.28141391.svg",
-    "static/media/busd-logo-medium.ae18ff3e.png": "/static/media/busd-logo-medium.ae18ff3e.png",
-    "static/media/busd.488237bc.svg": "/static/media/busd.488237bc.svg",
-    "static/media/busdfarm-header-text.6aa9a960.png": "/static/media/busdfarm-header-text.6aa9a960.png",
-    "static/media/index.css": "/static/media/pexels-anni-roenkae-2156881.4bfe79f5.jpg"
+    "static/media/bnb.2a875ac2.svg": "/static/media/bnb.2a875ac2.svg",
+    "static/media/bnbfarm-glow.6c1f1fc1.png": "/static/media/bnbfarm-glow.6c1f1fc1.png",
+    "static/media/bnbfarm-header-text.752073f3.png": "/static/media/bnbfarm-header-text.752073f3.png",
+    "static/media/index.css": "/static/media/pexels-anni-roenkae-2156881.bd2de450.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.06dcff9b.js",
-    "static/js/2.e1e97db5.chunk.js",
-    "static/css/main.ebbf385c.chunk.css",
-    "static/js/main.1890b315.chunk.js"
+    "static/js/runtime-main.d1abccf4.js",
+    "static/js/2.ba921af6.chunk.js",
+    "static/css/main.b4b8414d.chunk.css",
+    "static/js/main.7e87bd50.chunk.js"
   ]
 }
