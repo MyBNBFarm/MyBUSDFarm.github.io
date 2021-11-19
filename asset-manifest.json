@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ebbf385c.chunk.css",
-    "main.js": "/static/js/main.5a84f36f.chunk.js",
-    "main.js.map": "/static/js/main.5a84f36f.chunk.js.map",
+    "main.js": "/static/js/main.587bb67f.chunk.js",
+    "main.js.map": "/static/js/main.587bb67f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06dcff9b.js",
     "runtime-main.js.map": "/static/js/runtime-main.06dcff9b.js.map",
     "static/js/2.9a5bd684.chunk.js": "/static/js/2.9a5bd684.chunk.js",
@@ -13,7 +13,6 @@
     "static/css/main.ebbf385c.chunk.css.map": "/static/css/main.ebbf385c.chunk.css.map",
     "static/js/2.9a5bd684.chunk.js.LICENSE.txt": "/static/js/2.9a5bd684.chunk.js.LICENSE.txt",
     "static/media/Telegram_logo.28141391.svg": "/static/media/Telegram_logo.28141391.svg",
-    "static/media/bnbfarm-glow.6c1f1fc1.png": "/static/media/bnbfarm-glow.6c1f1fc1.png",
     "static/media/busd-logo-medium.ae18ff3e.png": "/static/media/busd-logo-medium.ae18ff3e.png",
     "static/media/busd.488237bc.svg": "/static/media/busd.488237bc.svg",
     "static/media/busdfarm-header-text.6aa9a960.png": "/static/media/busdfarm-header-text.6aa9a960.png",
@@ -23,6 +22,6 @@
     "static/js/runtime-main.06dcff9b.js",
     "static/js/2.9a5bd684.chunk.js",
     "static/css/main.ebbf385c.chunk.css",
-    "static/js/main.5a84f36f.chunk.js"
+    "static/js/main.587bb67f.chunk.js"
   ]
 }
